@@ -1,0 +1,29 @@
+USUARIOS       
+
+Planta:Dortex
+usuario: DORTEX
+password: gsd123
+   
+Planta: Gildan Las Americas         
+Usuario: LASSE
+password:gsd1020
+  
+Planta: Gildan San Isidro      
+usuario: GISIDRO
+password:gsd1014
+    
+Planta: HBI Dos Rios    
+Usuario: BONAO        
+password:gsd1024
+        
+Planta: Gildan San Pedro
+Usuario: GSPM
+password:gsd2030
+        
+Planta: HBI San Isidro
+Usuario: HBISIDRO
+password:gsd2010
+
+Planta: HBI Las Americas
+usuario: HBILASSE
+password:gsd2563  

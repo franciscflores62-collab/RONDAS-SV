@@ -1,29 +1,25 @@
 USUARIOS       
 
-Planta:Dortex
-usuario: DORTEX
+Planta:SITE EL SALVADOR TEXTILE SY SOCKS
+usuario: HBIOPICO
 password: gsd123
    
-Planta: Gildan Las Americas         
-Usuario: LASSE
+Planta: CONFECCIONES JIBOA BODEGA 2B         
+Usuario: JIBOA2
 password:gsd1020
   
-Planta: Gildan San Isidro      
-usuario: GISIDRO
+Planta: CONFECCIONES EL PEDREGAL BODEGA 2      
+usuario: PEDREGALB2
 password:gsd1014
     
-Planta: HBI Dos Rios    
-Usuario: BONAO        
+Planta: CONFECCIONES EL PEDREGAL COSTURA 
+Usuario: PEDREGALCS        
 password:gsd1024
         
-Planta: Gildan San Pedro
-Usuario: GSPM
+Planta: PLANTA DE TRATAMIENTO
+Usuario: HBIBIO
 password:gsd2030
-        
-Planta: HBI San Isidro
-Usuario: HBISIDRO
-password:gsd2010
 
-Planta: HBI Las Americas
-usuario: HBILASSE
-password:gsd2563  
+Planta: PLANTA JIBOA COSTURA
+Usuario: JIBOA01
+Password: gsd1804
